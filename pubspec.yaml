@@ -1,8 +1,7 @@
 name: starcannoncircus
 description: "Star Cannon Circus - Cannon aims at circus hoops"
 publish_to: 'none'
-version: 1.0.0+1
-
+version: 1.0.0+2
 environment:
   sdk: ^3.13.5
 
